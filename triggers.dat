@@ -2,7 +2,7 @@
 (?i)(gachi)
 (?i)(ricardo)
 (?i)(gay)
-(?i) (Ram Ranch)
-(?i) (Ranchers)
+(?i)(Ram Ranch)
+(?i)(Ranchers)
 (?i)(cowboy)s?
 (?i)(\A[c]+[uo]+[m]+[!?]*$)|(\A[c]+[uo]+[m]+[!?]*\s)|([\s][c]+[uo]+[m]+[!?]*(?!\S))

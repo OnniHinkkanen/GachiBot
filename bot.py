@@ -41,11 +41,12 @@ async def on_ready():
     for x in f:
         lyrics.append(x.rstrip("\n"))
         
+    """    
     for emoji_name in emoji_names:
         emojis.append(str(discord.utils.get(client.emojis, name=emoji_name)))
-        print(emoji_name)
+        #rint(emoji_name)
         print(str(discord.utils.get(client.emojis, name=emoji_name)))
-
+    """
     
 @client.event
 async def on_message(message):

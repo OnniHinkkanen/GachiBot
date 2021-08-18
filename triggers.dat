@@ -1,4 +1,5 @@
 (?i)(billy )?(herrington)
+(?i)(\A[b][i][l][l][y][!?]*$)|(\A[b][i][l][l][y][!?]*\s)|([\s][b][i][l][l][y][!?]*(?!\S))
 (?i)(?<!:)(gachi)
 (?i)(ricardo)
 (?i)(gay)
